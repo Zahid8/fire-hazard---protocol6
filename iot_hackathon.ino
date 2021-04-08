@@ -1,3 +1,6 @@
+//Team name : Prtocol6
+//Team Leader : B Zahid Hussain
+
 #include <SoftwareSerial.h>
 
 #define DEBUG true
@@ -52,7 +55,7 @@ void loop()
 
   int analogSensor = analogRead(smoke_sensor_pin);
 
-  if (analogSensor > 400)
+  if (analogSensor > 350)
 
   {
 
