@@ -1,5 +1,7 @@
-//Team name : Prtocol6
+//Team name : Protocol6
 //Team Leader : B Zahid Hussain
+//problem statement number : 9
+//
 
 #include <SoftwareSerial.h>
 
